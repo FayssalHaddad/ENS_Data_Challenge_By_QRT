@@ -1,7 +1,7 @@
 # ENS Data Challenge: Electricity Price Analysis
 
 ## Overview
-This project is part of the ENS Data Challenge by QRT, focusing on explaining the variations in electricity futures prices using a comprehensive data analysis approach.
+This project is part of the ENS Data Challenge by QRT, focusing on explaining the variations in electricity futures prices using a comprehensive data analysis approach. You can find more details for this project on https://challengedata.ens.fr/challenges/97.
 
 ## Data
 - **Training Data**: `X_train_NHkHMNU.csv`, `y_train.csv`
